@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "los 7 habitos de la gente altamente efectiva",
+            "author": "Facundito",
+            "year": 2003
+        },
+        {
+            "id": 2,
+            "name": "Padre rico, hijo probre",
+            "author": "Martin",
+            "year": 2000
+        }
+    ]
+}
